@@ -1,0 +1,8 @@
+.vscode
+main
+a.out
+main.dSYM
+genisis.dSYM
+insp
+*.o
+philo
